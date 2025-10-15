@@ -1,5 +1,5 @@
 The dataset outlines the daily expenses of myself (Brian Ofosu). It can
-be categorizes as a structured data since the data has been presented in
+be categorized as a structured data since the data has been presented in
 an organized, row-column format, enabling any individual to draw
 conclusions on my allocation of funds in a week. During the recording
 and cleaning process, I noticed that there might be blanks for certain
